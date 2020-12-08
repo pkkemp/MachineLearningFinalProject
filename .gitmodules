@@ -1,0 +1,3 @@
+[submodule "us-house"]
+	path = us-house
+	url = https://github.com/CivilServiceUSA/us-house.git
